@@ -1,0 +1,35 @@
+
+
+.footer{
+    margin-top: 20px;
+     padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(235, 229, 229);
+}
+
+.li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.h3{
+    margin-left: 40px;
+    color: rgb(119, 116, 116);
+    font-size: 20px;
+}
+.a{
+    margin-right: 20px;
+}
+.span{
+    margin-right: 20px;
+    font-size: 30px;
+     
+}
+
+.img{
+    margin-bottom: 20px;
+}
+.article{
+    margin-bottom: 20px;
+}
